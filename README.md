@@ -20,10 +20,10 @@
    </div>
   
   <h1 align="center">Social Networking</h1>
-    <a target="_blank" href = "mailto:silvahigo2@gmail.com.br">
+    <a href = "mailto:silvahigo2@gmail.com.br" target="_blank">
       <img width="35" src="https://cdn.iconscout.com/icon/free/png-256/gmail-30-722694.png">
     </a>
-    <a target="_blank" href = "https://www.linkedin.com/in/higo-henrique-da-silva-7a20a7234">
+    <a href = "https://www.linkedin.com/in/higo-henrique-da-silva-7a20a7234" target="_blank" >
       <img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg">
     </a>
 </div>
